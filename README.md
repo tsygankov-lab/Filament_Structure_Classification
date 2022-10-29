@@ -1,6 +1,7 @@
 # Filament_Structure_Classification
 
 compute_features.m - image segmentation and features extraction for Septin and CEP1 data.
+
 fourier_shape.m - supplemental function for computation of Fourier modes
 
 ## Septin filaments analysis
