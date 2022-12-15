@@ -7,11 +7,17 @@ fourier_shape.m - supplemental function for computation of Fourier modes
 ## Septin filaments analysis
 
 Septin_PCA_DBSCAN_classify.m - dimensionality reduction based on PCA analysis and structures classification with DBSCAN
+
 Septin_PCA_DBSCAN_inspect.m - inspect results of structures classification, sort clusters based on area
+
 Septin_PCA_DBSCAN_plot.m - plot results of classification for all clusters
+
 Septin_PCA_DBSCAN_plot_cropped.m - plot selected regions of images for all clusters
+
 Septin_PCA_DBSCAN_inspect_area_density.m - image-level analysis based on relative density of structures area
+
 Septin_PCA_DBSCAN_inspect_join_area_density.m - join clusters (to simplify interpretation) and perform image-level analysis based on relative density of structures area
+
 Septin_PCA_DBSCAN_plot_join_cropped.m  - plot selected regions of images for joined clusters
 
 ## CEP1 filaments analysis
