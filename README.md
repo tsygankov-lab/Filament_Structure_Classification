@@ -1,3 +1,13 @@
+Dr. Denis Tsygankov (2023)
+
+Integrative Systems Biology Lab
+
+Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University SOM
+
+If you use any part of the scripts in this package, please cite:
+
+Kho M, Hladyshau S, Tsygankov D, Nie S. Coordinated regulation of Cdc42ep1, actin, and septin filaments during neural crest cell migration. Front Cell Dev Biol. 2023 Feb 27;11:1106595. doi: 10.3389/fcell.2023.1106595. PMID: 36923257; PMCID: PMC10009165.
+
 # Filament_Structure_Classification
 
 compute_features.m - image segmentation and features extraction for Septin and CEP1 data.
